@@ -1,0 +1,53 @@
+
+
+h1 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  text-align: center;
+  color: black;
+  font-family: 'Comfortaa', cursive;
+}
+
+body {
+  background-color: rgb(205, 240, 255)
+}
+
+input {
+  width: 23.5%;
+  border: none;
+  border-bottom: 1px solid black;
+  outline: none;
+  margin-right:10px;
+  margin-bottom: 15px;
+}
+::-webkit-input-placeholder {
+  text-align: center;
+}
+
+input[type = 'text'], textarea {
+  background-color:  rgb(205, 240, 255);
+  font-family: 'Comfortaa', cursive;
+}
+
+#add-button {
+  border: none;
+  float: right;
+  margin-right: 30px;
+  padding-left: 60px;
+  padding-right: 60px;
+
+}
+
+.inputs-box {
+  border: solid;
+  border-radius: 5px;
+  padding-top: 30px;
+  padding-bottom: 40px;
+  padding-right: 15px;
+  padding-left: 20px;
+  margin-bottom: 30px;
+}
+
+.table {
+  font-family: 'Comfortaa', cursive;
+}
